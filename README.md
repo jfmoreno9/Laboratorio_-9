@@ -29,7 +29,7 @@ Para realizar la transformacion debemos tener presentes las formulas que transfo
 
 4. - CONCLUSION. -
 
-
+En conclusion, en el presente laboratorio pudismos reforzar los conocimientos sobre coordenadas polares y rectangulares haciendo uso de numeros reales e imaginarios.
 
 5. - BIBLIOGRAFIA. -
 
